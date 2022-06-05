@@ -12,13 +12,13 @@ const routes = [
     },
     {
         path: '/day1',
-        name: 'home',
+        name: 'day1',
         component:Day1
 
     },
     {
         path: '/day2',
-        name: 'home',
+        name: 'day2',
         component:Day2
 
     }
